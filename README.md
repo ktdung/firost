@@ -5,6 +5,8 @@
 
 # firost
 
+Try again
+
 <div class="lead">
   When writing command-line tools in JavaScript, you end up doing the same
   common tasks over and over again: reading and writing files, running binary
